@@ -8,7 +8,7 @@ import os
 from keep_alive import keep_alive
 keep_alive()
 # insert your Telegram bot tokSasen here
-bot = telebot.TeleBot('7399367017:AAGNMrzq3FXrpyg-tIXwFx1qeVUrGsd8G-8')
+bot = telebot.TeleBot('7495499381:AAEwqW5YY6kDuLZFTy3CJOnz0g3AQvkO2Co')
 
 # Admin user IDs
 admin_id = ["7303380062"]
@@ -251,7 +251,7 @@ def handle_bgmi(message):
         else:
             response = "Usage :- /attack1 <target> <port> <time>\nBy https://t.me/RAGNAROKCRACKER"  # Updated command syntax
     else:
-        response = "You Are Not User's To Authorized To Use This Command.\nBy STORM BOT DM TO GET ACCESS @TG_FLASH92"
+        response = "You Are Not User's To Authorized To Use This Command.\nBy FLASH BOT DM TO GET ACCESS @TG_FLASH92"
 
     bot.reply_to(message, response)
 
@@ -350,7 +350,7 @@ def welcome_plan(message):
 /logs : All Users Logs.
 /broadcast : Broadcast a Message.
 /clearlogs : Clear The Logs File.
-By https://t.me/RAGNAROKCRACKER
+By https://t.me/+QJGx03Cl1gpkMGRl
 '''
     bot.reply_to(message, response)
 
