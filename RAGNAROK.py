@@ -249,7 +249,7 @@ def handle_bgmi(message):
                 subprocess.run(full_command, shell=True)
                 response = f"FLASH 🚀\nAttack1 Finished. \n📡 Target: {target} \n🔌 Port: {port} \n⏱️ Time: {time} \n BY FLASH PAPA"
         else:
-            response = "Usage :- /attack1 <target> <port> <time>\nBy https://t.me/RAGNAROKCRACKER"  # Updated command syntax
+            response = "Usage :- /attack1 <target> <port> <time>\nBy https://t.me/+QJGx03Cl1gpkMGRl"  # Updated command syntax
     else:
         response = "You Are Not User's To Authorized To Use This Command.\nBy FLASH BOT DM TO GET ACCESS @TG_FLASH92"
 
